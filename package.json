@@ -23,6 +23,9 @@
     }
   ],
   "dependencies": {},
+  "peerDependencies": {
+    "angular": "1"
+  },
   "devDependencies": {
     "grunt": "~0.4.1",
     "grunt-bower": "*",
