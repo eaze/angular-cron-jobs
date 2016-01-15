@@ -1,6 +1,8 @@
 # angular-cron-jobs
 UI Component For Creating Cron Job Syntax To Send To Server
 
+## Forked (Ben Drucker): CommonJS support, had trouble using browserify-shim and could not reproduce in an isolated project.
+
 ##[DEMO](http://jacobscarter.github.io/angular-cron-jobs/#/)
 ##Installation
 

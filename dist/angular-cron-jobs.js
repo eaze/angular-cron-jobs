@@ -4,6 +4,11 @@
  * @author Jacob Carter <jacob@ieksolutions.com>
  * @license MIT License, http://www.opensource.org/licenses/MIT
  */
+
+var angular = require('angular')
+
+module.exports = 'angular-cron-jobs'
+
 angular.module('templates-angularcronjobs', ['cronselection.html']);
 
 angular.module("cronselection.html", []).run(["$templateCache", function($templateCache) {
